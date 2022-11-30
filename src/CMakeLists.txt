@@ -7,8 +7,10 @@
 #  |      MOREONIGIRI_QT6       |
 #  +============================+
 
+
 add_subdirectory(qt)
 
 if(BUILD_TESTS)
-  add_subdirectory(tests)
+  #add_subdirectory(tests)
 endif()
+

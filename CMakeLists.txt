@@ -14,9 +14,11 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 include(FetchContent)
 
-#FetchContent_Declare(
-#  moreonigiri_flow
-#)
+FetchContent_Declare(
+  moreonigiri_flow
+  GIT_REPOSITORY https://github.com/yukkute/moreonigiri-flow.git
+)
+FetchContent_MakeAvailable(moreonigiri_flow)
 
 option(BUILD_TESTS  "Build tests" OFF)
 
