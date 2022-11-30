@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/onigiri_qt.dir/onigiri_qt_autogen/mocs_compilation.cpp.o CMakeFiles/onigiri_qt.dir/main.cpp.o CMakeFiles/onigiri_qt.dir/qrc_resources.cpp.o -o onigiri_qt  /usr/lib/libQt6Widgets.so.6.4.1 /usr/lib/libQt6Svg.so.6.4.1 -lonigiri_logic /usr/lib/libQt6Gui.so.6.4.1 /usr/lib/libQt6Core.so.6.4.1 /usr/lib/libGLX.so /usr/lib/libOpenGL.so 
