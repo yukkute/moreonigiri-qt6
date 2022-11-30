@@ -1,0 +1,8 @@
+/home/me/Desktop/moreonigiri-qt6/build/CMakeFiles/edit_cache.dir
+/home/me/Desktop/moreonigiri-qt6/build/CMakeFiles/rebuild_cache.dir
+/home/me/Desktop/moreonigiri-qt6/build/src/CMakeFiles/edit_cache.dir
+/home/me/Desktop/moreonigiri-qt6/build/src/CMakeFiles/rebuild_cache.dir
+/home/me/Desktop/moreonigiri-qt6/build/src/qt/CMakeFiles/onigiri_qt.dir
+/home/me/Desktop/moreonigiri-qt6/build/src/qt/CMakeFiles/edit_cache.dir
+/home/me/Desktop/moreonigiri-qt6/build/src/qt/CMakeFiles/rebuild_cache.dir
+/home/me/Desktop/moreonigiri-qt6/build/src/qt/CMakeFiles/onigiri_qt_autogen.dir
